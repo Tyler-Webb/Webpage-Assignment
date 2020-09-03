@@ -1,0 +1,14 @@
+﻿body {
+	color: white;
+	background-image: url("./images/stairs.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p {
+	line-height: 200%;
+}
+img {
+	max-height: 390px;
+}
+
